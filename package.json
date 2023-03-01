@@ -10,7 +10,8 @@
     "serve": "clear && echo 'Hello' && node ./index.js",
     "pratica1": "node ./pratica1.js Brazil",
     "pratica2": "node ./pratica2.js b",
-    "pratica3": "node ./pratica3.js Analandia AL"
+    "pratica3": "node ./pratica3.js Analandia AL",
+    "pratica4": "node ./pratica4.js Rafael 38"
   },
   "repository": {
     "type": "git",
