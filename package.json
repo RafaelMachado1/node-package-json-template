@@ -1,0 +1,30 @@
+{
+  "name": "package-json-template",
+  "version": "1.0.0",
+  "description": "**Vamos utilizar esse repositório para as práticas da aula!**",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "clear && node ./index.js",
+    "serve": "clear && echo 'Hello' && node ./index.js",
+    "pratica1": "node ./pratica1.js Brazil",
+    "pratica2": "node ./pratica2.js b",
+    "pratica3": "node ./pratica3.js Analandia AL",
+    "pratica4": "node ./pratica4.js Rafael 38"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelMachado1/node-package-json-template.git"
+  },
+  "keywords": [
+    "node.js",
+    "package.json"
+  ],
+  "author": "Rafael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafaelMachado1/node-package-json-template/issues"
+  },
+  "homepage": "https://github.com/RafaelMachado1/node-package-json-template#readme"
+}
